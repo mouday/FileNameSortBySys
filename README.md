@@ -1,9 +1,9 @@
 # FileNameSortBySys
-FileName Sort By System
-you can reference this dll<br>
+FileName Sort By System<br />
+you can reference this dll<br />
 FileNameSortBySys/PSY.FileNameSortBySys/bin/Debug/PSY.FileNameSortBySys.dll
 
 example:
 
-using FileNameSortBySys;
+using FileNameSortBySys;<br />
 FileInfo[] =FileNameSort.SortFiles(FileInfo[] Files);
