@@ -7,3 +7,5 @@ example:
 
 using FileNameSortBySys;<br />
 FileInfo[] =FileNameSort.SortFiles(FileInfo[] Files);
+
+Email:1940607002@qq.com
