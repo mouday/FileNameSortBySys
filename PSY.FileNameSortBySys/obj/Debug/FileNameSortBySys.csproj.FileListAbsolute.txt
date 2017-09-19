@@ -1,0 +1,10 @@
+D:\Code\制作装机清单\GenerateList\GenerateList\obj\Debug\FileNameSortBySys.csprojResolveAssemblyReference.cache
+D:\Code\制作装机清单\GenerateList\GenerateList\bin\Debug\FileNameSortBySys.dll
+D:\Code\制作装机清单\GenerateList\GenerateList\bin\Debug\FileNameSortBySys.pdb
+D:\Code\制作装机清单\GenerateList\GenerateList\obj\Debug\FileNameSortBySys.dll
+D:\Code\制作装机清单\GenerateList\GenerateList\obj\Debug\FileNameSortBySys.pdb
+C:\Users\PSY\Desktop\通用工具箱 V1.3---\PSY.FileNameSortBySys\bin\Debug\PSY.FileNameSortBySys.dll
+C:\Users\PSY\Desktop\通用工具箱 V1.3---\PSY.FileNameSortBySys\bin\Debug\PSY.FileNameSortBySys.pdb
+C:\Users\PSY\Desktop\通用工具箱 V1.3---\PSY.FileNameSortBySys\obj\Debug\FileNameSortBySys.csprojResolveAssemblyReference.cache
+C:\Users\PSY\Desktop\通用工具箱 V1.3---\PSY.FileNameSortBySys\obj\Debug\PSY.FileNameSortBySys.dll
+C:\Users\PSY\Desktop\通用工具箱 V1.3---\PSY.FileNameSortBySys\obj\Debug\PSY.FileNameSortBySys.pdb

@@ -1,0 +1,5 @@
+C:\Users\PSY\Desktop\通用工具箱 V1.3---\PSY.FileNameSortBySys\bin\Debug\PSY.FileNameSortBySys.dll
+C:\Users\PSY\Desktop\通用工具箱 V1.3---\PSY.FileNameSortBySys\bin\Debug\PSY.FileNameSortBySys.pdb
+C:\Users\PSY\Desktop\通用工具箱 V1.3---\PSY.FileNameSortBySys\obj\Debug\PSY.FileNameSortBySys.csprojResolveAssemblyReference.cache
+C:\Users\PSY\Desktop\通用工具箱 V1.3---\PSY.FileNameSortBySys\obj\Debug\PSY.FileNameSortBySys.dll
+C:\Users\PSY\Desktop\通用工具箱 V1.3---\PSY.FileNameSortBySys\obj\Debug\PSY.FileNameSortBySys.pdb

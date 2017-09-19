@@ -1,0 +1,10 @@
+C:\Users\PSY\Desktop\通用工具箱 V1.3---\PSY.FileNameSortBySys\bin\Release\PSY.FileNameSortBySys.dll
+C:\Users\PSY\Desktop\通用工具箱 V1.3---\PSY.FileNameSortBySys\bin\Release\PSY.FileNameSortBySys.pdb
+C:\Users\PSY\Desktop\通用工具箱 V1.3---\PSY.FileNameSortBySys\obj\Release\PSY.FileNameSortBySys.csprojResolveAssemblyReference.cache
+C:\Users\PSY\Desktop\通用工具箱 V1.3---\PSY.FileNameSortBySys\obj\Release\PSY.FileNameSortBySys.dll
+C:\Users\PSY\Desktop\通用工具箱 V1.3---\PSY.FileNameSortBySys\obj\Release\PSY.FileNameSortBySys.pdb
+E:\彭世瑜\数据组软件\通用工具箱 V1.4---\PSY.FileNameSortBySys\bin\Release\PSY.FileNameSortBySys.dll
+E:\彭世瑜\数据组软件\通用工具箱 V1.4---\PSY.FileNameSortBySys\bin\Release\PSY.FileNameSortBySys.pdb
+E:\彭世瑜\数据组软件\通用工具箱 V1.4---\PSY.FileNameSortBySys\obj\Release\PSY.FileNameSortBySys.csprojResolveAssemblyReference.cache
+E:\彭世瑜\数据组软件\通用工具箱 V1.4---\PSY.FileNameSortBySys\obj\Release\PSY.FileNameSortBySys.dll
+E:\彭世瑜\数据组软件\通用工具箱 V1.4---\PSY.FileNameSortBySys\obj\Release\PSY.FileNameSortBySys.pdb
