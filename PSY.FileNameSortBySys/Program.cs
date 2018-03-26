@@ -8,26 +8,54 @@ namespace FileNameSortBySys
 {
     class Program
     {
-        /// <summary>
-        /// C#按文件名排序（顺序）
-        /// </summary>
-        /// <param name="arrFi">待排序数组</param>
-        public static void SortAsFileName(ref FileInfo[] arrFi)
-        {       
-            Array.Sort(arrFi, new FileNameCompare());
-            //Array.Sort(arrFi, delegate (FileInfo x, FileInfo y) { return x.Name.CompareTo(y.Name); });
-        }
-
-
         public static void SortFiles()
         {
-            string filePath = @"C:\Users\PSY\Desktop\通用工具箱 V1.3相关\HHLSR04-2017-012-1\HHLSR04-2017-012-1\个人化";
-            DirectoryInfo di = new DirectoryInfo(filePath);
+            //string filePath = @"D:\GitHub\FileNameSortBySys\PSY.FileNameSortBySys\测试文件\files";
 
-            FileInfo[] arrFi = di.GetFiles("*.*");
-            SortAsFileName(ref arrFi);          
-            for (int i = 0; i < arrFi.Length; i++)
-                Console.WriteLine(arrFi[i].Name);
+            //方式一：通过文件信息排序
+
+            //DirectoryInfo di = new DirectoryInfo(filePath);
+            //FileInfo[] arrFiles = di.GetFiles("*.*");
+
+            //Console.WriteLine("========原始=====");
+            //for (int i = 0; i < arrFiles.Length; i++)
+            //    Console.WriteLine(arrFiles[i].Name);
+
+            //FileInfo[] newArrFiles = FileNameSort.sortFiles(arrFiles);
+
+            //Console.WriteLine("========排序=====");
+            //for (int i = 0; i < newArrFiles.Length; i++)
+            //    Console.WriteLine(newArrFiles[i].Name);
+
+            //方式二：通过文件名排序
+            //string[] files = Directory.GetFiles(filePath);        
+            string filename = @"D:\GitHub\FileNameSortBySys\PSY.FileNameSortBySys\测试文件\filenames.txt";
+
+            string[] filenames = File.ReadAllLines(filename);
+            
+            //原始顺序
+            List<string> filelist = filenames.ToList();
+            Console.WriteLine("========原始=====");
+            foreach (string file in filelist)
+            {
+                Console.WriteLine(file);
+            }
+
+            //普通排序
+            filelist.Sort();
+            Console.WriteLine("========普通排序=====");
+            foreach (string file in filelist)
+            {
+                Console.WriteLine(file);
+            }
+
+            //文件排序
+            List<string> newFiles = FileNameSort.sortFiles(filelist);
+            Console.WriteLine("========文件排序=====");
+            foreach (string file in filelist)
+            {
+                Console.WriteLine(file);
+            }
         }
         static void Main(string[] args)
         {
